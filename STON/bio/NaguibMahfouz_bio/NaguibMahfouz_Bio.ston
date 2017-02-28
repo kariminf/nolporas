@@ -40,6 +40,7 @@
         id: his_novel;
         syn: 3833065;<novel>
         typ: PTSMFN;<his>
+        ref: [naguib];
         qnt: O1<first>
     r:}
     r:{
@@ -184,6 +185,7 @@
     r:{
         id: he_famous;
         typ: PTSMFN;<he>
+        ref: [naguib];
         @adj:[
             adj:{
                 syn: 1375831;<famous>
